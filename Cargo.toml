@@ -1,0 +1,11 @@
+[package]
+name = "rust-btc-wallet"
+version = "0.1.0"
+authors = ["vitocchi <vitocchi.mm@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bitcoin-wallet = "1.1.0"
+bitcoin = "0.21.0"
